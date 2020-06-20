@@ -44,7 +44,7 @@ A continuación se detalla el informe y sus respectivas gráficas
         * Discretos
         * Continuos
     * Estadisticos
-        Tendencia central
+        * Tendencia central
             * Media
             * Mediana
             * Moda

@@ -32,7 +32,7 @@
 
 ## Analítica descriptiva
 
-En esta se elabora un perfil detallado de los datos con sus respectivos gráficos para un buen análisis descriptivo de datos.
+En esta sección, se elabora un perfil detallado de los datos con sus respectivos gráficos para facilitar el análisis descriptivo de datos.
 
 A continuación se detalla el informe y sus respectivas gráficas
 

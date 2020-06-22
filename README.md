@@ -5,6 +5,7 @@
 * URL: https://cloud.minsa.gob.pe/s/Y8w3wHsEdYQSZRp/download
 * Video: https://youtu.be/E6_rqWMxXDQ
 * Repositorio: https://github.com/jaquino/ia_add
+* Ejemplo: https://jaquino.github.io/ia_add/index.html
 
 ## Herramientas
 * Lenguaje de Programación: Python 3.8.x

@@ -3,7 +3,8 @@
 * Departamento: Ancash
 * Fuente: [Ministerio de Salud - MINSA] - minsa.gob.pe
 * URL: https://cloud.minsa.gob.pe/s/Y8w3wHsEdYQSZRp/download
-* Video: https://youtu.be/IwZ9MRXU0l8
+* Video: https://youtu.be/E6_rqWMxXDQ
+* Repositorio: https://github.com/jaquino/ia_add
 
 ## Herramientas
 * Lenguaje de Programación: Python 3.8.x
